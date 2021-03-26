@@ -5,19 +5,19 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
-__█▼▼▼▼▼█ 
+__█▄█████▄█   *DONO*    : Juan
+__█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
 __█████████ 
 ____██_____██
 
 ┌─────────❶.❷────────
-║〘 INFORMAÇÕES 〙
+║〘 INFORMACION 〙
 ║
 ╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗Juan (base dark) 
+╠🐉 *wa.me/+5219212830538*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -35,7 +35,7 @@ ____██_____██
 ║🐊 *${prefix}wait [na legenda]*
 ║🐊 *${prefix}setprefix*
 ║
-╠══🐰〘 OUTROS 〙🐰══
+╠══🐰〘 OTROS 〙🐰══
 ║
 ║🐊 *${prefix}linkgp*
 ║🐊 *${prefix}simih [1/0]*
@@ -70,7 +70,7 @@ ____██_____██
 ║🐊 *${prefix}marcar2*
 ║🐊 *${prefix}marcar3*
 ║
-╠══🐰〘 IMAGENS 〙🐰══
+╠══🐰〘 IMAGENES 〙🐰══
 ║
 ║🐊 *${prefix}loli* [off]
 ║🐊 *${prefix}loli1*
@@ -95,13 +95,13 @@ ____██_____██
 ║🐊 *${prefix}nsfwloli1*
 ║🐊 *${prefix}reislin*
 ║
-╠══🐰〘 INTELIGÊNCIA 〙🐰══
+╠══🐰〘 INTELIGENCIA 〙🐰══
 ║
 ║🐊 *${prefix}simih 1 (para ativar)*
 ║🐊 *${prefix}simih 0 (para desativar)*
 ║ *${prefix}simi (sua mensagem)*
 ║
-╠══🐰〘 EM PRODUÇÃO 〙🐰══
+╠══🐰〘 EN PRODUCCIÓN 〙🐰══
 ║
 ║🐊 *${prefix}gado*
 ║🐊 *${prefix}dbz*
@@ -111,7 +111,7 @@ ____██_____██
 ║🐊 *${prefix}antinazismo
 ║🐊 *${prefix}it 1/0
 ║
-╠══🐰〘 SÓ PREMIUM 〙🐰══
+╠══🐰〘 SOLO PREMIUM 〙🐰══
 ║
 ║🐊 *${prefix}dado*
 ║🐊 *${prefix}cekvip*
@@ -150,7 +150,7 @@ ____██_____██
 ║🐊 *${prefix}setdesc*
 ║🐊 *${prefix}bug [sua mensagem]*
 ║
-╠══🐰〘 ESPECIFICO DO BOT 〙🐰══
+╠══🐰〘 ESPECIFICO DE BOT 〙🐰══
 ║
 ║🐊 *${prefix}bug [sua mensagem]*
 ║🐊 *${prefix}clonar [@]*
@@ -165,7 +165,7 @@ ____██_____██
 ║🐊 *${prefix}desligar (so para o dono)*
 ║🐊 *${prefix}timer*
 ║
-╠══🐰〘 MAIS ALGUNS 〙🐰══
+╠══🐰〘 ALGUNOS MAS 〙🐰══
 ║
 ║🐊 *${prefix}neko*
 ║🐊 *${prefix}ttp [texto]*
@@ -214,7 +214,7 @@ ____██_____██
 ╠══🐰〘 INTERATIVOS 〙🐰══
 ║
 ╠══NOTA »
-║Mandar a msg sem o prefixo
+║Mandar a msg o prefix
 ╠════════════════════
 ║
 ║🐊 *bah*
@@ -226,18 +226,18 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 KILL NO CONTROLE 〙🐰══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
-║ *YOUTUBE: https://youtube.com/c/caussZ*
+║ *NOME: Juan*
+║ *INSTA: luego lo pongoxd*
+║ *WPP: wa.me/+5219212830538*
+║ *YOUTUBE: https://youtube.com/*
 ║
-║  *"base do lindo (DARK BOT 4.0)🐊🚩*
+║  *"base do lindo (KILL-BOT 4.0)🐊🚩*
 ║  *"kiba não xereka"*
-║  *Número do dark: wa.me/+5522996215481
+║  *Número do owner: wa.me/+5219212830538
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 KILL-BOT 〙`
 }
 
 exports.help = help
