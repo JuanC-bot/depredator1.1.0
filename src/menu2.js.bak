@@ -39,12 +39,12 @@ const menu2 = (prefix) => {
 ╠➸ *${prefix}nsfwloli1*
 ╠➸ *${prefix}reislin*
 ║
-╠══✪〘 INTELIGÊNCIA IA 〙✪══
+╠══✪〘 INTELIGENCIA IA 〙✪══
 ║
 ╠➸ *${prefix}simih 1 (para ativar)*
 ╠➸ *${prefix}simih 0 (para desativar)*
 ╠➥ *${prefix}simi (sua mensagem)*
 ║
-╠══✪〘 *DARKBOT* 〙✪══`
+╠══✪〘 *KILL-BOT* 〙✪══`
 }
 exports.menu2 = menu2
