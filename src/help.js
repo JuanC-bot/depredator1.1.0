@@ -5,7 +5,7 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : Juan
+__█▄█████▄█   🐉*DONO*    : JuanCarlos🐉
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -15,19 +15,19 @@ ____██_____██
 ┌─────────❶.❷────────
 ║〘 INFORMACION 〙
 ║
-╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗Juan (base dark) 
-╠🐉 *wa.me/+5219212830538*
-╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
+╠🐉 *KILL-BOT* 🐉
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗Juan (base dark) 🐉
+╠🐉 *wa.me/+5219212830538*🐉
+╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON🐉
 ║
 ║
 ╠══🐰〘 MENU 〙🐰══
 ║
-║🐊 *${prefix}figu*
-║🐊 *${prefix}toimg*
+║🐊 *${prefix}figu* (stickers)
+║🐊 *${prefix}toimg* (pasa los stickers a foto)
 ║🐊 *${prefix}darkjokes (memes aleatórios)*
 ║🐊 *${prefix}memeindo*
-║🐊 *${prefix}tts*
+║🐊 *${prefix}tts* (el texto escrito lo pasa a audio)
 ║🐊 *${prefix}lolih [on]*
 ║🐊 *${prefix}nsfwloli [off]*
 ║🐊 *${prefix}url2img*
@@ -39,15 +39,15 @@ ____██_____██
 ║
 ║🐊 *${prefix}linkgp*
 ║🐊 *${prefix}simih [1/0]*
-║🐊 *${prefix}marcar*
-║🐊 *${prefix}add [@]*
-║🐊 *${prefix}banir [@]*
-║🐊 *${prefix}promover [@]*
-║🐊 *${prefix}rebaixar*
-║🐊 *${prefix}admins*
-║🐊 *${prefix}marcar2*
+║🐊 *${prefix}marcar* (mencionar a todos)
+║🐊 *${prefix}add [@]* (añadir a numeros)
+║🐊 *${prefix}banir [@]* (eliminar a miembros)
+║🐊 *${prefix}promover [@]* (dar admi a un miembro)
+║🐊 *${prefix}rebaixar* (quitar admin)
+║🐊 *${prefix}admins* (lista de admin)
+║🐊 *${prefix}marcar2* (menciona a unos miembros)
 ║🐊 *${prefix}bc [texto]* (ele faz uma ™)
-║🐊 *${prefix}marcar3*
+║🐊 *${prefix}marcar3* (menciona a unos miembros)
 ║🐊 *${prefix}bloqueados*
 ║🐊 *${prefix}bloquear [@]*
 ║🐊 *${prefix}desbloquear [@]*
@@ -228,14 +228,14 @@ ____██_____██
 ║
 ╠══🐰〘 KILL NO CONTROLE 〙🐰══
 ║
-║ *NOME: Juan*
-║ *INSTA: luego lo pongoxd*
-║ *WPP: wa.me/+5219212830538*
-║ *YOUTUBE: https://youtube.com/*
+║ *NOME: JuanCarlos*🐉
+║ *INSTA: luego lo pongoxd*🌼
+║ *WPP: wa.me/+5219212830538*🌼
+║ *YOUTUBE: https://youtube.com/*🌼
 ║
 ║  *"base do lindo (KILL-BOT 4.0)🐊🚩*
-║  *"kiba não xereka"*
-║  *Número do owner: wa.me/+5219212830538
+║  *"kiba não xereka"*🌼
+║  *Número do owner: wa.me/+5219212830538🌼
 ║
 ╚═〘 KILL-BOT 〙`
 }
